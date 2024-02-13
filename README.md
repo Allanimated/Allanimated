@@ -1,5 +1,7 @@
-### Hello World 🌍👋, I'm Allan from Nairobi, Kenya.
-#### Software Engineer
+### 👋Hello World 🌍!!
+### I'm Allan from Nairobi, Kenya.
+
+## Software Engineer
 
 ![Software Engineer](https://i.pinimg.com/564x/71/b8/59/71b8597599e9f5d7fa269dfdfff73367.jpg)
 
