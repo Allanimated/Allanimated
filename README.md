@@ -1,9 +1,9 @@
-<img src="banner.png">
+<img src="banner.png" />
 
 ### 👋Hello World 🌍!!
 ### I'm [Allan](https://allanimated.github.io/Portfolio/) from Nairobi, Kenya.
 
-## Software Engineer
+<h1 style="color:blue;">Software Engineer</h1>
 
 🌟**full-stack software engineer** with 2+ years of experience.🌟
 I am a passionate junior full-stack software engineer with a love for crafting elegant solutions to complex problems. I'm enthusiastic about leveraging my skills to contribute to impactful projects and continuously grow as a developer.
