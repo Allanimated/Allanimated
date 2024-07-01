@@ -16,7 +16,7 @@ I am a passionate junior full-stack software engineer with a love for crafting e
 
 - 🔭 I’m currently working on a telemedicine application 
 - 🌱 I’m currently learning software engineering at Moringa School 
-- 📫 How to reach me: allanjoroge116@gmail.com 
+- 📫 How to reach me: ngokonyoallan@gmail.com 
 - ⚡ Fun fact: Computers are fast not smart!!
 
 # 💻 Tech Stack:
